@@ -50,6 +50,7 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [QRL](https://theqrl.org)
 - **[Ryo](https://ryo-currency.com) - Upcoming xmr-stak-gui is sponsored by Ryo**
 - [Stellite](https://stellite.cash/)
+- [uPLEXA](https://uplexa.com/)
 - [TurtleCoin](https://turtlecoin.lol)
 - [Zelerius](https://zelerius.org/)
 - [X-CASH](https://x-network.io/)
@@ -58,6 +59,8 @@ Ryo currency is a way for us to implement the ideas that we were unable to in
 Monero. See [here](https://github.com/fireice-uk/cryptonote-speedup-demo/) for details.
 
 If your prefered coin is not listed, you can choose one of the following algorithms:
+- 128Kib scratchpad memory
+    - cryptonight_upx2
 - 256Kib scratchpad memory
     - cryptonight_turtle
 - 1MiB scratchpad memory

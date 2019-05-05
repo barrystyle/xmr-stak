@@ -31,11 +31,14 @@ POOLCONF],
  *    qrl - Quantum Resistant Ledger
  *    ryo
  *    turtlecoin
+ *    uplexa
  *    plenteum
  *    xcash
  *
  * Native algorithms which do not depend on any block versions:
  *
+ *    # 128KiB scratchpad memory
+ *    cryptonight_upx2
  *    # 256KiB scratchpad memory
  *    cryptonight_turtle
  *    # 1MiB scratchpad memory
